@@ -6,7 +6,6 @@ FullStack Sotfware Developer
 
 Always eager to learn new things, my journey has lead me to several paths among which are frontend and backend development with languages like Python, Ruby, Php and Javascript; blockchain development with Rust and Solidity and some DevOps tasks to put my work online. Currently working with MERN stack and Solana, I believe in collaboration and communication to achieve goals in every project that I participate. Give me a Hi!
 
-* 🌍  I'm based in Caracas, Venezuela
 * ✉️  You can contact me at [josemfcheo@gmail.com](mailto:josemfcheo@gmail.com)
 * 🧠  I'm learning Solana Blockchain Development
 * 🤝  I'm open to collaborating on Interesting projects that helps people around the world
